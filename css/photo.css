@@ -1,0 +1,41 @@
+/*
+We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
+However, this blank file is available if you prefer
+*/
+/*html{
+	height: 2000px;
+}
+*/.navbar{
+    background: rgba(0, 0, 0 , .8);
+}
+.navcontain{
+	height: 60px;
+}
+#logo{
+	color: white;
+	font-size: 40px;
+	/*padding-bottom: */
+}
+.main-image{
+
+	/*background: url('../img/ва.jpg') no-repeat;*/
+	background-size: cover;
+    /*height: 600px;*/
+    margin-top: 5px;
+    /*background-color:  rgba(0, 0, 0 , .15);*/
+}
+
+body{
+	background-color:  rgba(0, 0, 0 , .15);
+}
+
+.footer{
+	/*margin-top: 10px;*/
+	background-color: black;
+}
+.footer-text{
+	color: white;
+}
+
+
+

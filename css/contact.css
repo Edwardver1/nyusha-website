@@ -1,0 +1,60 @@
+/*
+We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
+However, this blank file is available if you prefer
+*/
+/*html{
+	height: 2000px;
+}
+*/.navbar{
+    background: rgba(0, 0, 0 , .8);
+}
+.navcontain{
+	height: 60px;
+}
+#logo{
+	color: white;
+	font-size: 40px;
+	/*padding-bottom: */
+}
+.main-image{
+
+	background: url('../img/contact1.jpg')  
+	 no-repeat;
+	/*background-size: cover;*/
+    /*height: 650px;*/
+    height: 1300px;
+    background-position: right center;
+}
+.dates{
+	color: black;
+	border-right: 1px solid rgba(85, 85, 85 , .68);
+	width: 80%;
+}
+.events-text{
+	margin-top: 25px;
+	font-size: 14px;
+}
+/*body{
+	background-color:  rgba(0, 0, 0 , .15);
+}
+*/
+footer{
+	background-color: #171819;
+}
+.footer-text{
+	color: white;
+}
+.black-text{
+	color: black;
+}
+.big{
+	font-size: 23px;
+}
+#mail{
+	color: grey;
+	border-bottom: 1px solid grey;
+}
+.big-main{
+	height: 1300px;
+	background-color:  rgba(0, 0, 0 , .15);
+}
